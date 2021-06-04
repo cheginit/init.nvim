@@ -39,9 +39,11 @@ Plug 'tpope/vim-eunuch'                                 " run common Unix comman
 Plug 'dart-lang/dart-vim-plugin'
 Plug 'machakann/vim-sandwich'                           " make sandwiches
 Plug 'christoomey/vim-tmux-navigator'                   " seamless vim and tmux navigation
+Plug 'rudrab/vimf90'
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 Plug 'TovarishFin/vim-solidity'
 call plug#end()
+
 
 "}}}
 
